@@ -34,7 +34,7 @@ OPS develops the full software stack behind pipeline control room operations â�
 |---|---|---|
 | Chris Babb | Principal SCADA Engineer | [View Repos â†’](https://github.com/search?q=org%3AOptimal-Pipeline-Solutions+topic%3Ababb&type=repositories) |
 | John Brown | Manager of OT & Integrations | [View Repos â†’](https://github.com/search?q=org%3AOptimal-Pipeline-Solutions+topic%3Abrown&type=repositories) |
-| Josh Davis | Senior Control Systems Engineer | [View Repos â†’](https://github.com/search?q=org%3AOptimal-Pipeline-Solutions+topic%3Adavis&type=repositories) |
+| Josh Davis | Senior Automation Engineer | [View Repos â†’](https://github.com/search?q=org%3AOptimal-Pipeline-Solutions+topic%3Adavis&type=repositories) |
 
 ---
 
