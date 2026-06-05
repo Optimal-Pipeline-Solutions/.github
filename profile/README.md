@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Optimal-Pipeline-Solutions/.github/main/profile/ops-logo.svg" alt="Optimal Pipeline Solutions" width="380"/>
+<img src="https://raw.githubusercontent.com/Optimal-Pipeline-Solutions/.github/main/profile/ops-logo.svg" alt="Optimal Pipeline Solutions" width="285"/>
 
 <br/><br/>
 
-**Pipeline Operations · Automation Engineering · Regulatory Compliance**
+**Pipeline Operations Â· Automation Engineering Â· Regulatory Compliance**
 
 <br/>
 
@@ -20,11 +20,11 @@
 
 ## What We Build
 
-OPS develops the full software stack behind pipeline control room operations — from real-time SCADA and alarm management to regulatory compliance and reporting. Everything here is purpose-built for pipeline and industrial operations under PHMSA 49 CFR 192/195 and ISA-18.2.
+OPS develops the full software stack behind pipeline control room operations â€” from real-time SCADA and alarm management to regulatory compliance and reporting. Everything here is purpose-built for pipeline and industrial operations under PHMSA 49 CFR 192/195 and ISA-18.2.
 
-- **OPS CRM Suite** — Control room management: scheduling, alarm rationalization, AI-assisted analysis, shift reporting
-- **Ignition Tooling** — Utilities for tag auditing, script management, alarm journal analysis, and backup processing
-- **Compliance & Automation** — Document control, OPC tag compliance, pipeline simulation, and AutoSol integration
+- **OPS CRM Suite** â€” Control room management: scheduling, alarm rationalization, AI-assisted analysis, shift reporting
+- **Ignition Tooling** â€” Utilities for tag auditing, script management, alarm journal analysis, and backup processing
+- **Compliance & Automation** â€” Document control, OPC tag compliance, pipeline simulation, and AutoSol integration
 
 ---
 
@@ -32,9 +32,9 @@ OPS develops the full software stack behind pipeline control room operations —
 
 | Engineer | Role | Repositories |
 |---|---|---|
-| Chris Babb | Principal SCADA Engineer | [View Repos →](https://github.com/search?q=org%3AOptimal-Pipeline-Solutions+topic%3Ababb&type=repositories) |
-| John Brown | Manager of OT & Integrations | [View Repos →](https://github.com/search?q=org%3AOptimal-Pipeline-Solutions+topic%3Abrown&type=repositories) |
-| Josh Davis | Senior Control Systems Engineer | [View Repos →](https://github.com/search?q=org%3AOptimal-Pipeline-Solutions+topic%3Adavis&type=repositories) |
+| Chris Babb | Principal SCADA Engineer | [View Repos â†’](https://github.com/search?q=org%3AOptimal-Pipeline-Solutions+topic%3Ababb&type=repositories) |
+| John Brown | Manager of OT & Integrations | [View Repos â†’](https://github.com/search?q=org%3AOptimal-Pipeline-Solutions+topic%3Abrown&type=repositories) |
+| Josh Davis | Senior Control Systems Engineer | [View Repos â†’](https://github.com/search?q=org%3AOptimal-Pipeline-Solutions+topic%3Adavis&type=repositories) |
 
 ---
 
