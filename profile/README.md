@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Optimal-Pipeline-Solutions/.github/main/profile/ops-logo.jpg" alt="Optimal Pipeline Solutions" width="260"/>
+<img src="https://raw.githubusercontent.com/Optimal-Pipeline-Solutions/.github/main/profile/ops-logo.svg" alt="Optimal Pipeline Solutions" width="380"/>
 
 <br/><br/>
 
